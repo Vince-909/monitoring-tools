@@ -1,0 +1,6 @@
+EXPORTS
+    DllMain = DllMain@12 @1
+    DllMain@12 @2
+    KeyboardProc = KeyboardProc@12 @3
+    KeyboardProc@12 @4
+    _ZTI8DllClass @5 DATA

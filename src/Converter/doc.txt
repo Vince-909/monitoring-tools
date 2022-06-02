@@ -1,0 +1,1 @@
+VersionInfo.db: Binary of the .bmp to .jpg converter
